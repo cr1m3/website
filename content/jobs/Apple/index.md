@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2019-11-13'
+title: 'Electrical Engineer Co-op'
+company: 'PT. Chevron Pacific Indonesia'
+location: 'Duri, Riau'
+range: 'November 2019 - March 2020'
+url: 'https://www.chevron.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Analysis of prelimiary power outage report
+- Site visit Balam, Ketigul, Bekasap substation
+- Switching procedure bypass and normalize power system equipment
+- Matlab and ETAP fault event simulation
