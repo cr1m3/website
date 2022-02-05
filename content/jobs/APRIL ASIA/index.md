@@ -1,7 +1,7 @@
 ---
 date: '2021-02-17'
 title: 'Electric PSD Engineer'
-company: 'APRIL ASIA - RPE'
+company: 'APRIL'
 location: 'Kerinci, Riau'
 range: 'February 2021 - Present'
 url: 'https://www.aprilasia.com/'

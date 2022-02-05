@@ -1,7 +1,7 @@
 ---
 date: '2019-01-5'
 title: 'Internship Student'
-company: 'Pertamina RU II'
+company: 'Pertamina'
 location: 'Sungai Pakning, Bengkalis'
 range: 'January - February 2019'
 url: 'https://pertamina.com/'

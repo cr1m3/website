@@ -1,7 +1,7 @@
 ---
 date: '2019-11-13'
 title: 'Electrical Engineer Co-op'
-company: 'PT. Chevron Pacific Indonesia'
+company: 'Chevron'
 location: 'Duri, Riau'
 range: 'November 2019 - March 2020'
 url: 'https://www.chevron.com/'

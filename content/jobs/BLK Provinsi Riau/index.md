@@ -1,7 +1,7 @@
 ---
 date: '2019-06-01'
 title: 'Electrical Internship'
-company: 'BLK Provinsi Riau'
+company: 'BLK'
 location: 'Pekanbaru, Riau'
 range: 'June - August 2019'
 url: 'https://kemnaker.go.id'
