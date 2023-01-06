@@ -136,19 +136,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Jeffry and I'm a electric PSD engineer. My
+              Hello! My name is Jeffry and I'm a electric PSD Engineer. My
               interest in electrical started back in 2015 when I decided to study at University of Riau with majoring electrical engineer.
               Let's learn more about electrical to make a better electricity!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://aprilasia.com/">an Electric PSD Engineer Maintenance</a>,{' '}
-              <a href="https://indonesia.chevron.com/">a COOP Student Interenship</a>,{' '}
-              <a href="https://www.pertamina.com/">a Electric Maintenance Internship</a>, and{' '}
-              <a href="https://unri.ac.id">a student-led high testing voltage</a>. My
-              main focus these days is building career, specialization skills, and
-              experiences at <a href="https://aprilasia.com/">APRIL | RGE</a> for Riau Prima Eergi (RPE).
+              Fast-forward to today, I already start my professional of working at:</a>,{' '}
+              <a href="https://aprilasia.com/">April Group</a> as Electric Power System Engineer{' '}
+              <a href="https://indonesia.chevron.com/">Chevron Pacific Indonesia</a> as COOP Student Internship{' '}
+              <a href="https://www.pertamina.com/">Pertamina Refinery Unit II</a> as Electric Maintenance Internship{' '}
+              <a href="https://unri.ac.id">High Voltage Testing</a> as student-led high testing voltage.
+            </p>
+            <p>
+              My main focus these days is building career, specialization skills, and
+              experiences at <a href="https://aprilasia.com/">APRIL Group | RGE</a> for Riau Prima Energi (RPE).
             </p>
 
             <p>Here are a few presentation I’ve been working with recently:</p>
