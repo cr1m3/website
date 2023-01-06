@@ -65,6 +65,7 @@ const StyledPic = styled.div`
 
     &:hover,
     &:focus {
+      background: transparent;
       outline: 0;
 
       &:after {
