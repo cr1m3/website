@@ -142,7 +142,8 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, I already start my professional of working at:</a>,{' '}
+              Fast-forward to today, I already start my professional of working at:</p>
+            <p>
               <a href="https://aprilasia.com/">April Group</a> as Electric Power System Engineer{' '}
               <a href="https://indonesia.chevron.com/">Chevron Pacific Indonesia</a> as COOP Student Internship{' '}
               <a href="https://www.pertamina.com/">Pertamina Refinery Unit II</a> as Electric Maintenance Internship{' '}
