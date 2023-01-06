@@ -301,7 +301,7 @@ const StyledProject = styled.li`
       }
     }
   }
-`;
+;
 
 const Featured = () => {
   const data = useStaticQuery(graphql`
