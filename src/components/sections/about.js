@@ -134,17 +134,6 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Jeffry and I'm a electric PSD Engineer. My
-              interest in electrical started back in 2015 when I decided to study at University of Riau
-              with majoring electrical engineer.
-              Let's learn more about electrical to make a better electricity!
-            </p>
-
-            <p>
-             Fast-forward to today, I already start my professional of working at:
-            </p>
-
 
             <p>Here are a few presentation I’ve been working with recently:</p>
             </div>
