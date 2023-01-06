@@ -301,13 +301,13 @@ const StyledProject = styled.li`
       }
     }
   }
-;
+`;
 
 const Featured = () => {
   const data = useStaticQuery(graphql`
     {
       featured: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/content/featured/" } }
+        filter: { fileAbsolutePath: { regex: "/featured/" } }
         sort: { fields: [frontmatter___date], order: ASC }
       ) {
         edges {
