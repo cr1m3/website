@@ -65,8 +65,15 @@ const Hero = () => {
     <>
       <p>
         Specializing in Power System (Generation-Transmission-Distribution-Load).
+        Currently, I’m focused on ensuring the availability and reliability of electrical
+        power distribution to mill wide area through power transmission line at voltage level
+        150kV, 33kV, 20kV and distribution to various load 6600V, 690V, and 400V
+        at{' '}
+        <a href="https://www.aprilasia.com/" target="_blank" rel="noreferrer">
+          APRIL ASIA
+        </a>
+        .
       </p>
-      
     </>
   );
   const five = (
