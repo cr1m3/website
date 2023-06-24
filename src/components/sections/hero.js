@@ -21,7 +21,7 @@ const StyledHeroSection = styled.section`
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
-    font-weight: 350;
+    font-weight: 400;
 
     @media (max-width: 480px) {
       margin: 0 0 20px 2px;
@@ -66,17 +66,7 @@ const Hero = () => {
       <p>
         Specializing in Power System (Generation-Transmission-Distribution-Load).
       </p>
-      <p>
-        Currently, I’m focused on ensuring the availability and reliability of
-        electrical power distribution to mill wide area through power transmission
-        lines at voltage level of 150kV, 33kV, 20kV and distribution load to various
-        load 6600V, 690V, and 400V
-        at{' '}
-        <a href="https://aprilasia.com/" target="_blank" rel="noreferrer">
-          APRIL ASIA
-        </a>
-        .
-      </p>
+      
     </>
   );
   const five = (
