@@ -29,14 +29,14 @@ const StyledHeroSection = styled.section`
   }
 
   h3 {
-    margin-top: 5px;
+    margin-top: 10px;
     color: var(--slate);
     line-height: 0.9;
   }
 
   p {
     margin: 20px 0 0;
-    max-width: 600px;
+    max-width: 700px;
   }
 
   .email-link {
