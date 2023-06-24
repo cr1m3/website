@@ -17,14 +17,14 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
-    margin: 0 0 25px 4px;
+    margin: 0 0 20px 3px;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
 
     @media (max-width: 480px) {
-      margin: 0 0 20px 2px;
+      margin: 0 0 10px 1px;
     }
   }
 
