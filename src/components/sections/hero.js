@@ -64,8 +64,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Electric PSD Engineer specializing in Power System (Generation-Transmition-Distribution-Load).
-        Currently, I’m focused on Power and Control System and Wiring Diagram
+        Specializing in Power System (Generation-Transmission-Distribution-Load).
+      </p>
+      <p>
+        Currently, I’m focused on ensuring the availability and reliability of
+        electrical power distribution to mill wide area through power transmission
+        lines at voltage level of 150kV, 33kV, 20kV and distribution load to various
+        load 6600V, 690V, and 400V
         at{' '}
         <a href="https://aprilasia.com/" target="_blank" rel="noreferrer">
           APRIL ASIA
