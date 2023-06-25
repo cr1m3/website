@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Turbine-Generator 135MW', 'Turbine-Generator 400MW', '150kV Bus Protection', 'Transformer 300MVA', 'Starter and Drive', 'UPS-Battery Charger'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -146,22 +146,15 @@ const About = () => {
               <a href="https://www.aprilasia.com/">APRIL Group</a>,{' '}
               <a href="https://www.chevron.com/">Chevron Pacific Indonesia</a>,{' '}
               <a href="https://www.pertamina.com/">Pertamina RU II</a>, and{' '}
-              <a href="https://www.unri.ac.id/">T3 LAB</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.unri.ac.id/">T3 LAB</a>.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Now my main focus these days is commissioning in project Fiberline 3B,
+              that will increase power more than 450 MW.
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+            Here are a few projects I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
