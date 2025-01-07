@@ -137,8 +137,8 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Jeffry and I am an Electrical Engineer. My Interest in Electrical started
-              back when I was child thinking how my Toys can move by itself, now I know that is because of Battery :D
-              Then in 2015 I decided to learn more about Electrical in Bachelor Degree.
+              back when I was child thinking how my Toys can move by itself, now I know that is because of Battery.
+              Then on 2015 I decided to learn more about Electrical in Bachelor Degree.
             </p>
 
             <p>
@@ -150,8 +150,8 @@ const About = () => {
             </p>
 
             <p>
-              Now my main focus these days is commissioning in project Fiberline 3B,
-              that will increase power more than 450 MW.
+              Now my main focus these days are commissioning Turbine-Generator 400MW,
+              AVR, Protection Relay, SCADA, and GIS.
             </p>
             <p>
             Here are a few projects I’ve been working with recently:</p>
